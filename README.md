@@ -4,7 +4,7 @@ Technologies Used in App
 2. Chalk
 
 Live Link:
-https://replit.com/@AkshayMahajan8/Mark-2
+https://replit.com/@AkshayMahajan8/quizapp
 
 
    
